@@ -1,6 +1,6 @@
-# data-science-project
+# r-data-science-project
 
-Repository containing scaffolding for an R and RStudio based data science project. 
+Template repository containing scaffolding for an [R](https://www.r-project.org/) and [RStudio](https://www.rstudio.com/) based data science project. 
 
 ## Creating a new project from this template
 
